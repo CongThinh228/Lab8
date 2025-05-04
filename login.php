@@ -4,7 +4,7 @@
         header('Location: index.php');
         exit();
     }
-
+   
     $error = '';
 
     $user = '';
@@ -84,6 +84,6 @@
         </div>
     </div>
 </div>
-
+<!--Dummy text-->
 </body>
 </html>
